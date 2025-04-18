@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/ramesh8850/PDF-to-FraudNet_Backend.git
+[submodule "my_project"]
+	path = my_project
+	url = https://github.com/ramesh8850/PDF-to-FraudNet_Frontend.git
